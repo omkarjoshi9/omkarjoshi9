@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omkarnjoshi9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XUQBYV6XQr9MjVcwSFOjZjKula7naE3S/view?usp=drive_link](https://drive.google.com/file/d/1XUQBYV6XQr9MjVcwSFOjZjKula7naE3S/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XUQBYV6XQr9MjVcwSFOjZjKula7naE3S/view?usp=drive_link](https://shorturl.at/6xy3c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
