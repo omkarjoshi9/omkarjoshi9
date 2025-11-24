@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [DevSync](https://github.com/omkarjoshi9/DevSync)
 
-- 🌱 I’m currently learning **AWS , Docker, Kubernetes**
+- 🌱 I’m currently learning **AWS , Docker**
 
 - 👨‍💻 All of my projects are available at [https://omkarjoshi-one.vercel.app/](https://omkarjoshi-one.vercel.app/)
 
