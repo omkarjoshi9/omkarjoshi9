@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omkar Joshi</h1>
-<h3 align="center">A passionate Fullstack developer & DevOps Enthusiast</h3>
+<h3 align="center">Cloud Backend Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjoshi9&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjoshi9" /> </p>
 
-- 🔭 I’m currently working on [DevSync](https://github.com/omkarjoshi9/DevSync)
-
-- 🌱 I’m currently learning **AWS , Docker**
-
-- 👨‍💻 All of my projects are available at [https://omkarjoshi-one.vercel.app/](https://omkarjoshi-one.vercel.app/)
-
-- 💬 Ask me about **React.js, Javascript, Typescript,**
+- 🌱 I’m currently learning **GOlang**
 
 - 📫 How to reach me **omkarnjoshi9@gmail.com**
-
-- 📄 Know about my experiences https://shorturl.at/6xy3c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
