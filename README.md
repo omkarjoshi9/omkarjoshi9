@@ -165,10 +165,10 @@ I contribute to agent tooling that I actually use, mostly by improving documenta
 ## Recently shipped
 
 <!-- RECENT:START -->
+- **[SQLi-prevention-pipeline](https://github.com/omkarjoshi9/SQLi-prevention-pipeline)**: SQL injection detection pipeline on AWS (WAF + Lambda + SNS) · <sub>Nov 2026</sub>
+- **[mcportfolio](https://github.com/omkarjoshi9/mcportfolio)**: Portfolio site built as a blocky sandbox world · <sub>Nov 2026</sub>
 - **[agentic_pentester](https://github.com/omkarjoshi9/agentic_pentester)**: Autonomous multi-agent web pentesting loop with guardrails and a Docker sandbox · <sub>Oct 2026</sub>
 - **[DeploX](https://github.com/omkarjoshi9/DeploX)**: Vercel-style deploy platform with a Redis build queue · <sub>Oct 2026</sub>
-- **[PSL_AI_Foundry](https://github.com/omkarjoshi9/PSL_AI_Foundry)**: Research internship work on on-device RAG with Windows AI Foundry · <sub>Sep 2026</sub>
-- **[job_hunt](https://github.com/omkarjoshi9/job_hunt)**: Scheduled job-digest pipeline delivering a ranked Telegram digest · <sub>Sep 2026</sub>
 <!-- RECENT:END -->
 
 <sub>The two lists above are refreshed daily by a GitHub Action in this repo.</sub>
