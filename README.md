@@ -4,8 +4,6 @@
 
 <img src="assets/headers/operator.svg" alt="01. Operator profile">
 
-**Autonomy is easy to demo and hard to trust.** Most of my work is the second part: deciding what an agent is *allowed* to do, where its code *runs*, how it *fails*, and what *proof* it leaves behind. I like systems where the LLM makes suggestions and ordinary, testable code makes the decisions.
-
 I work across agentic AI and LLM systems, the backends and cloud infrastructure they run on, and the security of both. I did a research internship at PSL AI Foundry on on-device RAG.
 
 <table>
