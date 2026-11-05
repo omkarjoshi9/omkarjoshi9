@@ -100,7 +100,6 @@ Blocks at the edge with WAF, then inspects the SQL that actually ran: RDS logs s
 - **[MathiasPaulenko/wavexis-mcp](https://github.com/MathiasPaulenko/wavexis-mcp/pull/25)**: docs: add Simplified Chinese and Japanese README translations
 - **[skundu42/opendevops](https://github.com/skundu42/opendevops/pull/6)**: docs: expand CLI reference with grant flow and chat flags
 - **[rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness/pull/28)**: docs: troubleshoot missing/unauthenticated worker CLI
-- **[norqen-ai/norqen-frontend](https://github.com/norqen-ai/norqen-frontend/pull/1)**: Initial Norqen frontend build
 <!-- OSS:END -->
 
 </td>
