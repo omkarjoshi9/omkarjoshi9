@@ -38,6 +38,7 @@ BLURBS = {
     "GitHub-Repo-Intelligence-Bot": "LLM summaries of commits and PRs, posted to Slack",
     "age_of_umpires": "Daily browser game: guess the cricket umpire's age",
     "mcportfolio": "Portfolio site built as a blocky sandbox world",
+    "agentguard": "Design stage: least-privilege permissions for AI coding agents, derived from project files",
 }
 
 

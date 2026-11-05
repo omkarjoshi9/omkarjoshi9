@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 2 * * *" # daily, 07:47 IST
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_city.py
+      - scripts/theme.py
+      - .github/workflows/refresh-readme.yml
 
 permissions:
   contents: write
@@ -17,9 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: "3.12"
 
@@ -29,14 +35,24 @@ jobs:
           GH_USER: ${{ github.repository_owner }}
         run: python scripts/update_readme.py
 
+      # GITHUB_TOKEN can read the public contribution calendar. The optional
+      # CITY_TOKEN secret (a fine-grained PAT with no extra permissions) is only
+      # needed if the default token is ever refused by the GraphQL API.
+      - name: Rebuild contribution city
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CITY_TOKEN: ${{ secrets.CITY_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/build_city.py
+
       - name: Commit if changed
         run: |
-          if git diff --quiet -- README.md; then
+          if [ -z "$(git status --porcelain -- README.md assets/generated)" ]; then
             echo "No changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: refresh README activity"
+          git add README.md assets/generated
+          git commit -m "chore: refresh README activity and contribution city"
           git push

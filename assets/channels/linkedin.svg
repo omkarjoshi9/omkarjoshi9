@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="76" viewBox="0 0 480 76" role="img" aria-label="Linkedin: in/omkarjoshi9">
+<title>Linkedin: in/omkarjoshi9</title>
+
+<polygon points="12.5,0.5 479.5,0.5 479.5,63.5 467.5,75.5 0.5,75.5 0.5,12.5" fill="#0A0F1F" stroke="#2C3760"/>
+<rect x="0.5" y="16" width="3" height="44" fill="#A855F7"/>
+<text x="24" y="30" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="10" fill="#A855F7" letter-spacing="2.5">CH·02</text>
+<text x="24" y="54" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="17" fill="#E4E8F7" font-weight="700" letter-spacing="4">LINKEDIN</text>
+<text x="430" y="46" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" fill="#7A86AD" text-anchor="end">in/omkarjoshi9</text>
+<path d="M446,44 L456,34 M449,34 H456 V41" fill="none" stroke="#A855F7" stroke-width="1.6"/>
+</svg>
