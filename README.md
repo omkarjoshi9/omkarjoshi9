@@ -82,10 +82,10 @@ Blocks at the edge with WAF, then inspects the SQL that actually ran: RDS logs s
 <sub><b>RECENTLY SHIPPED</b></sub>
 
 <!-- RECENT:START -->
+- **[agentic_pentester](https://github.com/omkarjoshi9/agentic_pentester)**: Autonomous multi-agent web pentesting loop with guardrails and a Docker sandbox · <sub>Nov 2026</sub>
+- **[mcportfolio](https://github.com/omkarjoshi9/mcportfolio)**: Portfolio site built as a blocky sandbox world · <sub>Nov 2026</sub>
 - **[DeploX](https://github.com/omkarjoshi9/DeploX)**: Vercel-style deploy platform with a Redis build queue · <sub>Nov 2026</sub>
 - **[job_hunt](https://github.com/omkarjoshi9/job_hunt)**: Scheduled job-digest pipeline delivering a ranked Telegram digest · <sub>Nov 2026</sub>
-- **[SQLi-prevention-pipeline](https://github.com/omkarjoshi9/SQLi-prevention-pipeline)**: SQL injection detection pipeline on AWS (WAF + Lambda + SNS) · <sub>Nov 2026</sub>
-- **[mcportfolio](https://github.com/omkarjoshi9/mcportfolio)**: Portfolio site built as a blocky sandbox world · <sub>Nov 2026</sub>
 <!-- RECENT:END -->
 
 </td>
