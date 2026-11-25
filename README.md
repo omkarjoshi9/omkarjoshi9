@@ -94,10 +94,12 @@ Blocks at the edge with WAF, then inspects the SQL that actually ran: RDS logs s
 <sub><b>MERGED UPSTREAM</b></sub>
 
 <!-- OSS:START -->
+- **[norqen-ai/mandate-enforcement-llm](https://github.com/norqen-ai/mandate-enforcement-llm/pull/1)**: Add anonymized experiment reproduction code
+- **[norqen-ai/norqen-backend](https://github.com/norqen-ai/norqen-backend/pull/3)**: Ignore local planning documents
+- **[norqen-ai/norqen-backend](https://github.com/norqen-ai/norqen-backend/pull/2)**: Add LLM pacing and rate-limit recovery
+- **[norqen-ai/norqen-backend](https://github.com/norqen-ai/norqen-backend/pull/1)**: Integrate BE research and Omkar provider support into prod
 - **[MathiasPaulenko/wavexis-mcp](https://github.com/MathiasPaulenko/wavexis-mcp/pull/26)**: docs: add visual regression testing examples
 - **[MathiasPaulenko/wavexis-mcp](https://github.com/MathiasPaulenko/wavexis-mcp/pull/25)**: docs: add Simplified Chinese and Japanese README translations
-- **[skundu42/opendevops](https://github.com/skundu42/opendevops/pull/6)**: docs: expand CLI reference with grant flow and chat flags
-- **[rxdt/loopgate_harness](https://github.com/rxdt/loopgate_harness/pull/28)**: docs: troubleshoot missing/unauthenticated worker CLI
 <!-- OSS:END -->
 
 </td>
